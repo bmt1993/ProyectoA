@@ -21,6 +21,13 @@ public class ProyectoA {
         
         System.out.println(clase1.getAtributoA());
         
+        ClaseB claseb=new ClaseB("Hola");
+
+
+        System.out.println(claseb.getNombre());
+        
+        
+        
         
     }
     
